@@ -1,1 +1,1 @@
-# puppet-tech-cahllenge
+# puppet-tech-challenge
